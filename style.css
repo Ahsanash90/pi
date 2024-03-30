@@ -1,0 +1,50 @@
+h3{
+  color: orange;
+  font-size: 30px;
+  position: absolute;
+  left: 95px;
+  font-weight: bold 3px;
+}
+*{
+  background-color: #613697;
+  font-family: arial;
+}
+h5{
+  color: orange;
+  font-size: 15px;
+  position: absolute;
+  top: 80px;
+  left: 65px;
+  font-weight: bold 3px
+}
+button{
+  background: transparent;
+  color: orange;
+  border: solid 3px orange;
+  border-radius: 30px;
+  padding: 10px;
+  position: absolute;
+  top: 450px;
+  left: 33%
+}
+img{
+  height: 290px;
+  position: absolute;
+  top: 22%;
+  left: 23%;
+  border-radius: 50%
+}
+a{
+  color: blue;
+  position: absolute;
+  top: 85%;
+  font-size: 9px;
+}
+p{
+  color: white;
+  position: absolute;
+  top: 93%;
+  font-size: 11px;
+  left: 31%
+}
+
